@@ -1,0 +1,9 @@
+D:\Backup\Вероника\Документы\ШАГ\Домашние задания\Выполненые\WinForms\WinForms_dz_Menu\WinForms_dz_Menu\WinForms_dz_Menu\bin\Debug\WinForms_dz_Menu.exe.config
+D:\Backup\Вероника\Документы\ШАГ\Домашние задания\Выполненые\WinForms\WinForms_dz_Menu\WinForms_dz_Menu\WinForms_dz_Menu\bin\Debug\WinForms_dz_Menu.exe
+D:\Backup\Вероника\Документы\ШАГ\Домашние задания\Выполненые\WinForms\WinForms_dz_Menu\WinForms_dz_Menu\WinForms_dz_Menu\bin\Debug\WinForms_dz_Menu.pdb
+D:\Backup\Вероника\Документы\ШАГ\Домашние задания\Выполненые\WinForms\WinForms_dz_Menu\WinForms_dz_Menu\WinForms_dz_Menu\obj\Debug\WinForms_dz_Menu.csprojResolveAssemblyReference.cache
+D:\Backup\Вероника\Документы\ШАГ\Домашние задания\Выполненые\WinForms\WinForms_dz_Menu\WinForms_dz_Menu\WinForms_dz_Menu\obj\Debug\WinForms_dz_Menu.Form1.resources
+D:\Backup\Вероника\Документы\ШАГ\Домашние задания\Выполненые\WinForms\WinForms_dz_Menu\WinForms_dz_Menu\WinForms_dz_Menu\obj\Debug\WinForms_dz_Menu.Properties.Resources.resources
+D:\Backup\Вероника\Документы\ШАГ\Домашние задания\Выполненые\WinForms\WinForms_dz_Menu\WinForms_dz_Menu\WinForms_dz_Menu\obj\Debug\WinForms_dz_Menu.csproj.GenerateResource.Cache
+D:\Backup\Вероника\Документы\ШАГ\Домашние задания\Выполненые\WinForms\WinForms_dz_Menu\WinForms_dz_Menu\WinForms_dz_Menu\obj\Debug\WinForms_dz_Menu.exe
+D:\Backup\Вероника\Документы\ШАГ\Домашние задания\Выполненые\WinForms\WinForms_dz_Menu\WinForms_dz_Menu\WinForms_dz_Menu\obj\Debug\WinForms_dz_Menu.pdb
